@@ -1,0 +1,15 @@
+*.out
+main*
+Makefile
+*.txt
+*.DAT
+*.CPP
+*.bmp
+
+
+noj/.vscode/
+__pycache__/
+./noj/noj/__pycache__/
+./noj/noj/spiders/__pycache__/
+.DS_Store
+.vscode/
